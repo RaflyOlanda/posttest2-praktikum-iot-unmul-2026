@@ -31,7 +31,6 @@ Sistem ini bekerja dengan alur logika sebagai berikut:
 3. **Sistem Keamanan Gas (Otomatis):** Sensor MQ-2 digunakan untuk mendeteksi kebocoran gas di lingkungan rumah. 
    - Jika nilai gas melebihi ambang batas yang ditentukan, sistem akan secara otomatis mengirimkan peringatan darurat (*push notification*) ke grup Telegram.
    - Notifikasi berisi informasi kondisi berbahaya agar pengguna dapat segera melakukan tindakan.
-4. Seluruh sistem terhubung ke internet melalui jaringan Wi-Fi untuk sinkronisasi data serta kontrol perangkat secara *real-time* melalui Telegram Bot.
 
 ---
 
